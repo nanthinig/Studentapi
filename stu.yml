@@ -1,0 +1,4 @@
+message : Hello %s! You id is %s and learning %s!!
+defaultText1: nanthini
+defaultText2: 45
+defaultText3: Dropwizard
